@@ -1,0 +1,7 @@
+# Dotnet Core
+obj/
+bin/
+
+# Java
+out/
+.idea

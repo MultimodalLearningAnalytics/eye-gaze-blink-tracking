@@ -1,0 +1,1 @@
+All source code in this folder is licensed according to the OpenFace licensing, please see https://github.com/TadasBaltrusaitis/OpenFace/blob/master/Copyright.txt
