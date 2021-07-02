@@ -9,7 +9,8 @@ This repository contains two folders. Each folder contains a README.md with deta
 - The folder `data` contains all datasets, derived analytics and models created and/or generated for the eye gaze and blink tracking project.
 - The folder `software` contains programs in several programming languages (C#, C++, Python and Java) that were used for post-processed, aggregating and analyzing the data and models.
 
-Contact details can be found in the paper: [Tracking Sustained Attention with Webcam-Based Eye Gaze and Blink Pattern Tracking](https://repository.tudelft.nl/).
-(TODO add link to paper)
+Details about the research can be found in the paper: [Tracking Sustained Attention with Webcam-Based Eye Gaze and Blink Pattern Tracking](https://repository.tudelft.nl/islandora/object/uuid:56ff42f2-2538-49e1-b022-894b15c7956d).
 
-(TODO add image of poster)
+In case of questions please reach out through GitHub.
+
+<a href="poster.png"><img src="poster.png" alt="Research Project poster" width="500px"/></a>
